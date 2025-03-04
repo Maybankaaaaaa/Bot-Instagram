@@ -1,0 +1,15 @@
+1. Ter o NodeJS no PC.
+2. Abrir um CMD na pasta ou um terminal no VSCode (Visual Studio Code).
+3. Utilize "npm install" (sem aspas)
+4. Aguarde terminar de instalar os módulos necessários.
+5. Utilize "node ." ou "node main.js" (sem aspas) e aguarde o BOT ficar online.
+
+
+
+ja deixei arquivo pra hospedar bot na Discloud junto so configurar o resto 
+
+- Hospedagem:
+1. Caso queira hospedar o BOT, escolha algum local como Discloud ou Square Cloud.
+| OBS: Esses que citei são os principais serviços de hospedagem, mas você pode escolher outros.
+
+BASTA CONFIGURAR O ARQUIVO (CONFIG.JSON)S

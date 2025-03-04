@@ -1,0 +1,6 @@
+{
+    "token":"TOKEN DO BOT",
+    "staff":"ID CARGO DE STAFF",
+    "logs":"ID DAS LOGS PARA APROVAR POSTAGEM",
+    "channelId":"ID DO CANAL QUE IRÁ AS POSTAGEM"
+}
